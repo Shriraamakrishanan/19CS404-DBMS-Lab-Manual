@@ -1,6 +1,6 @@
 # EXPERIMENT 2: DDL Commands
-## NAME :  SHREYESHKAR SEKAR
-## REGISTRATION  NUMBER : 212224220099
+## NAME :  SHRI RAAMA KRISHANAN J
+## REGISTRATION  NUMBER : 212224220100
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
